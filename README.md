@@ -16,7 +16,7 @@ A simple, interactive, and stylish calculator built using **HTML, CSS, and JavaS
 ![Dark Mode Screenshot](screenshots/dark.png)  
 
 ### **Light Mode**  
-![Light Mode Screenshot](screenshots/wight.png)  
+![Light Mode Screenshot](screenshots/white.png)  
 
 ## 🛠️ Technologies Used  
 - **HTML** → For structuring the calculator  
@@ -42,6 +42,5 @@ Feel free to fork this repository, improve the design, or add more functionaliti
 ## 📜 License  
 This project is open-source and available under the **MIT License**.  
 
----
 
 You can replace `your-live-demo-link` with the actual hosted link of your project. Let me know if you need any modifications! 🚀
