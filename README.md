@@ -9,14 +9,14 @@ A simple, interactive, and stylish calculator built using **HTML, CSS, and JavaS
 ✅ **Responsive Design**: Works seamlessly on desktop and mobile devices  
 
 ## 🎥 Demo  
-🔗 [Live Preview]([https://rasool321.github.io/Calculator/])  
+🔗 [Live Preview][https://rasool321.github.io/Calculator/]  
 
 ## 📸 Screenshots  
 ### **Dark Mode**  
 ![Dark Mode Screenshot](screenshots/dark.png)  
 
 ### **Light Mode**  
-![Light Mode Screenshot](screenshots/light.png)  
+![Light Mode Screenshot](screenshots/wight.png)  
 
 ## 🛠️ Technologies Used  
 - **HTML** → For structuring the calculator  
