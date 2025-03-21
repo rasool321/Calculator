@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your **Calculator** project:  
-
----
-
 # 🖩 Calculator  
 
 A simple, interactive, and stylish calculator built using **HTML, CSS, and JavaScript**. It supports basic arithmetic operations and features smooth animations along with a dark/light mode toggle.  
@@ -13,7 +9,7 @@ A simple, interactive, and stylish calculator built using **HTML, CSS, and JavaS
 ✅ **Responsive Design**: Works seamlessly on desktop and mobile devices  
 
 ## 🎥 Demo  
-🔗 [Live Preview](your-live-demo-link)  
+🔗 [Live Preview]([https://rasool321.github.io/Calculator/])  
 
 ## 📸 Screenshots  
 ### **Dark Mode**  
